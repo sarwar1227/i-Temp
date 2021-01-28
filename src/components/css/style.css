@@ -1,0 +1,30 @@
+.navbar{
+    padding:10px;
+    background-color: rgb(13, 4, 95);
+}
+a{
+    color: white;
+    text-decoration: none;
+    margin: 5px;
+}
+.change_color{
+    color:rgb(208, 230, 255);
+}
+.iTemp_css{
+    background-color:rgb(255, 0, 0)
+}
+.iTemp_css p{
+    text-align: justify;
+    text-transform: capitalize;
+    line-height: 20px;
+    padding: 10px;
+    color:white;
+}
+footer{
+    padding: 5px;
+    text-align: center;
+    background-color: white;
+    position:absolute;
+    bottom:0;
+    width:100%;
+}
